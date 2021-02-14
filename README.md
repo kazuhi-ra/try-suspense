@@ -1,0 +1,1 @@
+ReactのSuspenseを試すやつです
